@@ -1,3 +1,3 @@
-# Guia de OMR com Python e OpenCV
+# Leitor de Gabarito com OpenCV
 
-Leia o artigo completo no [Medium](https://eijitomonari.medium.com/optical-mark-recognition-omr-com-python-e-opencv-o-guia-definitivo-3f7c0a5a6cb6)
+Projeto desenvolvido utilizando Python e OpenCV.
